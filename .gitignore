@@ -29,10 +29,11 @@ override.tf.json
 # example: *tfplan*
 
 # hcl file
+
 *.hcl
 
 # custom
 
 biosop/.terraform
-
+tutorials/*
 
